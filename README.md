@@ -11,6 +11,6 @@
 <br />On one terminal :- 
 - Push the schema to neon
     - npm run db:push<br />
-On other terminal :- 
+- On other terminal :- 
 - Run the server
     - npm run dev 
