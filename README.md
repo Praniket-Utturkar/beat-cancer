@@ -8,9 +8,9 @@
 - Install Dependencies
     - npm install
 - Split the terminal 
-On one terminal - 
-- To push the schema to neon
+<br />On one terminal :- 
+- Push the schema to neon
     - npm run db:push
-On other terminal - 
+<br />On other terminal :- 
 - Run the server
     - npm run dev 
