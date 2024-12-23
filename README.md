@@ -7,8 +7,8 @@
 - Clone the Repository
 - Install Dependencies
     - npm install
-- Split the terminal 
-<br />1. On one terminal :- 
+- Split the terminal<br /> 
+1. On one terminal :- 
 - Push the schema to neon
     - npm run db:push<br />
 2. On other terminal :- 
